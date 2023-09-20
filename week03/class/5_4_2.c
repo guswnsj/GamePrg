@@ -12,4 +12,4 @@ int main(void)
   return 0;
 }
 
-![5_4_2.c](money_split_and_print.png)
+![5_4_2.c](class/img/money_split_and_print.png)
